@@ -6,6 +6,8 @@
    * press 'i' for IOS simulator
    * press 'w' for web
 
+Preview:
+
 ![View Light](assets/ViewLight.png)
 
 
